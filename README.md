@@ -13,13 +13,12 @@ This repository demonstrates how to embed and display 3D models hosted on [iJewe
 for more information check our [documentation](https://developer.ijewel3d.com/)
 
 ### Installation
-
 **Install dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
+```bash
+npm install
+# or
+yarn install
+```
 
 ### Running the Example
 
