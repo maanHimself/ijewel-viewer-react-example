@@ -10,6 +10,8 @@ This repository demonstrates how to embed and display 3D models hosted on [iJewe
 - Providing a container for the 3D model display
 
 
+for more information check our [documentation](https://developer.ijewel3d.com/)
+
 ### Installation
 
 1.  **Clone the repository:**
