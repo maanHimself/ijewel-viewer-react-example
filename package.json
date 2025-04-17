@@ -12,9 +12,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@ijewel3d/mini-viewer": "https://releases.ijewel3d.com/libs/web/ijewel3d-mini-viewer-0.3.18.tgz",
-    "webgi": "https://dist.pixotronics.com/webgi/runtime/bundle-0.10.5.tgz",
-    "@types/webgi": "https://dist.pixotronics.com/webgi/runtime/bundle-types-0.10.5.tgz"
+    "@ijewel3d/mini-viewer": "https://releases.ijewel3d.com/libs/web/ijewel3d-mini-viewer-0.3.20.tgz",
+    "webgi": "https://releases.ijewel3d.com/webgi/runtime/bundle-0.10.5.tgz",
+    "@types/webgi": "https://releases.ijewel3d.com/webgi/runtime/bundle-types-0.10.5.tgz"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
